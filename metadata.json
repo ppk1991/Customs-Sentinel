@@ -1,0 +1,7 @@
+{
+  "name": "Customs Sentinel + Declaration Risk",
+  "description": "An AI-powered GovTech platform for customs agents to monitor incoming declarations, evaluate fraud risk using advanced reasoning, and interact with a virtual compliance assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
